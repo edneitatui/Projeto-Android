@@ -174,7 +174,7 @@ aside > ul {
 }
 
 footer {
-    background-color: var(--cor5);
+    background-color: var(--cor1);
     color: white;
     /*  ************** Neste ponto formatamos o rodapé.  ************* */
     text-align: center;
@@ -183,5 +183,5 @@ footer {
 }
 footer a:hover {
     text-decoration: underline ;
-    color: var(--cor1);
+    color: var(--cor3);
 }
